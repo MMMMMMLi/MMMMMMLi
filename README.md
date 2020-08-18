@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm MengLi.</h3>
 
-<!--
-**MMMMMMLi/MMMMMMLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Like Dota2 ! •
+  <a href="https://github.com/MMMMMMLi">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+### Github Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=MMMMMMLi&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&)
+
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MMMMMMLi&layout=compact&count_private=true&theme=default&hide=css,html,javascript)
+
+### About Me
+
+- 🔭 Java开发者 .
+- 🌱 Spring Cloud/Docker/Java ...
+- 🤔 一个喜欢学习新东西的蠢憨憨 .
+- 📫 https://blog.csdn.net/qq_31518009
+- 😄 Mengli/Pazi .
+- ⚡ 深度Dota2爱好者 .
