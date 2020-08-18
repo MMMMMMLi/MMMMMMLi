@@ -21,9 +21,9 @@
 
 ## About me
 
-I'm Weijia Jiang. You can call me Mengli. Because it's my wife's :sparkling_heart: pet name.
+I'm Weijia Jiang. You can call me :bowtie: Mengli. Because it's my wife's :sparkling_heart: pet name.
 
-An Java Engineer In :cn: Jinan. 
+:earth_asia: An Java Engineer In Jinan China. 
 
 I have been trying to improve myself for a better future. :100:
 
@@ -32,8 +32,8 @@ Life is too short to regret. If it's not the end, :muscle: please keep smiling.
 ## Things I am passionate about
 
 - :video_game: [Dota2](http://dotamax.com/player/detail/158432419) .
-- :stuck_out_tongue: Learn Spring-Cloud/Docker/Java .
 - :family: My Wife .
+- :stuck_out_tongue: Learn Spring-Cloud/Docker/Java .
 
 ---
 
