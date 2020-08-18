@@ -10,11 +10,10 @@
 <img align="right" alt="GIF" src="https://github.com/MMMMMMLi/MMMMMMLi/blob/master/smile.jpeg" />
 
 
-<!-- ### Github Statistics
+### Github Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MMMMMMLi&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&)
 
--->
 
 ### About Me
 
