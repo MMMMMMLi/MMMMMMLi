@@ -1,13 +1,17 @@
 <h3 align="center">👋 Hello ! Welcome here.</h3>
 <p align="center">
-  <a href="https://steamcommunity.com/id/mengli/" target="_blank">Steam</a> •
-  <a href="http://dotamax.com/player/detail/158432419/" target="_blank">Dota2</a> •
+  <a href="https://steamcommunity.com/id/mengli/">Steam</a> •
+  <a href="http://dotamax.com/player/detail/158432419/">Dota2</a> •
   <a href="https://github.com/MMMMMMLi">GitHub</a>
 </p>
 
 ---
 
 ![image](https://github.com/MMMMMMLi/MMMMMMLi/blob/master/images/cao.jpg)
+
+<p align="center">
+  [  <a href="https://www.u17.com/comic/3166.html">镇魂街</a>  ]
+</p>
 
 ## About me
 
@@ -35,9 +39,5 @@ Life is too short to regret. If it's not the end, :muscle: please keep smiling.
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MMMMMMLi&layout=compact&count_private=true&theme=default&hide=css,html,javascript)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMMMMMLi)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  [  <a href="https://www.u17.com/comic/3166.html" target="_blank">镇魂街</a>  ]
-</p>
 
 -->
