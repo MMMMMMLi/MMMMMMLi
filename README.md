@@ -1,5 +1,4 @@
 <h3 align="center">👋 Hello ! Welcome here.</h3>
-
 <p align="center">
   <a href="https://steamcommunity.com/id/mengli/" target="_blank">Steam</a> •
   <a href="http://dotamax.com/player/detail/158432419/" target="_blank">Dota2</a> •
@@ -8,7 +7,7 @@
 
 ---
 
-![image](https://github.com/MMMMMMLi/MMMMMMLi/blob/master/smile.gif)
+![image](https://github.com/MMMMMMLi/MMMMMMLi/blob/master/images/cao.jpg)
 
 ## About me
 
