@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hello ! Welcome here.</h3>
 <p align="center">
   <a href="https://steamcommunity.com/id/mengli/">Steam</a> •
-  <a href="http://dotamax.com/player/detail/158432419/">Dota2</a> •
   <a href="http://imengli.com/">Blob</a>
 </p>
 
@@ -25,7 +24,7 @@ Life is too short to regret. If it's not the end, :muscle: please keep smiling.
 
 ## Things I am passionate about
 
-- :video_game: [Dota2](http://dotamax.com/player/detail/158432419) .
+- :video_game: [Dota2](https://steamcommunity.com/id/mengli/) .
 - :family: My Wife && My Little Baby.
 - :stuck_out_tongue: Learn Spring-Cloud/Docker/Java .
 
